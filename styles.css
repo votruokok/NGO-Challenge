@@ -1,0 +1,28 @@
+body {
+  background: #363062;
+}
+
+.Nav-Bar {
+  display: block;
+  font-family: "Concert One", cursive;
+  font-size: 24px;
+  color: black;
+  background-color: white;
+  padding-bottom: 5px;
+}
+.contact {
+  display: inline;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 820px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.contact:hover {
+  background-color: #e9d5ca;
+  transition: 0.3s;
+}
