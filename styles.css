@@ -40,6 +40,9 @@ a {
   color: black;
   text-decoration: none;
 }
+a:hover {
+  color: #363062;
+}
 .slider {
   width: 500px;
   height: 400px;
